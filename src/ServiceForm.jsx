@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import axios from "axios";
 
 // const API_BASE_URL = "https://innam.rf.gd/api/services/";
-const API_BASE_URL = "http://localhost:5000/api/services/";
+const API_BASE_URL = "https://crud-backend-demo.onrender.com/api/services/";
 
 
 function ServiceForm() {
